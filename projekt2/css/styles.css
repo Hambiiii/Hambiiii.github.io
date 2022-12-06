@@ -11287,6 +11287,7 @@ textarea.form-control-lg {
   background-size: cover;
 }
 .bcg{
+  min-height: 25rem;
   background: url(../img/tajkep.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat ;
@@ -11339,3 +11340,21 @@ textarea.form-control-lg {
   text-align: justify;
   font-family: sans-serif;
 }
+
+.masodikt{
+  max-height: ;
+}
+
+
+.elsot, .masodikt{
+  margin: 11px;
+  width: 20rem;
+}
+
+.tajkep{
+  flex-direction: row;
+  display: flex;
+  
+  
+}
+
